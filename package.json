@@ -1,0 +1,25 @@
+{
+  "name": "katex-support.js",
+  "version": "0.1.0",
+  "description": "Generates a list of the functions and symbols that KaTeX supports.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmeas/katex-support.js.git"
+  },
+  "keywords": [
+    "katex"
+  ],
+  "author": "Jmeas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmeas/katex-support.js/issues"
+  },
+  "homepage": "https://github.com/jmeas/katex-support.js",
+  "devDependencies": {
+    "katex": "^0.1.0"
+  }
+}
