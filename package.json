@@ -1,5 +1,5 @@
 {
-  "name": "katex-support.js",
+  "name": "katex-support",
   "version": "0.1.0",
   "description": "Generates a list of the functions and symbols that KaTeX supports.",
   "main": "index.js",
