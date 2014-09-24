@@ -7,13 +7,7 @@ Generates lists of the functions and symbols that [KaTeX](https://github.com/Kha
 Install via npm.
 
 ```js
-npm install katex-support
-```
-
-Require it in your project.
-
-```js
-
+npm install katex-support.js
 ```
 
 ## Usage
